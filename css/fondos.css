@@ -1,0 +1,19 @@
+ <style type="text/css">
+    
+        .panel-default {
+        opacity: 0.9;
+        margin-top:30px;
+        }
+        .form-group.last { margin-bottom:0px; }
+        .error{
+            background-color: #E74F4F;
+            position: absolute;
+            top: 0;
+            padding: 10px 0 ;
+            border-radius:  0 0 5px 5px;
+            color: #fff;
+            width: 100%;
+            text-align: center;
+            display: none;
+        }
+    </style>
